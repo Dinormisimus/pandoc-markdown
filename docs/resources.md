@@ -4,4 +4,4 @@
 - [Pandoc Cheat Sheet](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pandoc.pdf)
 - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [GitHub community standard](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- 
+  
