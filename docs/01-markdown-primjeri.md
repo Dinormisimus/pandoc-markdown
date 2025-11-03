@@ -1,3 +1,11 @@
+---
+title: "Uvod u Markdown"
+author: "Dino Grgič"
+date: "3. studenog 2025."
+lang: "hr"
+---
+
+
 # Markdown
 
 ## Osnovna sintaksa
