@@ -1,10 +1,3 @@
----
-title: "Uvod u Markdown"
-author: "Dino Grgić"
-date: "3. studenog 2025."
-lang: "hr"
----
-
 
 # Markdown
 
