@@ -1,5 +1,9 @@
 # Changelog za Pandoc i Markdown
-
+-[v0.3]. 3. studenog 2025.
+  - Dodana datoteka sa korisnim linkovima
+  - Dodani YAML podaci na docs/01-markdown-primjeri.md
+  - Dodana deskripcija i primjeri naredbi i konverzija za Pandoc
+    
 -[v0.2] - 3. studenog 2025.
   - Uređen docs/01-markdown-primjeri.md
   - Dodana tablina
