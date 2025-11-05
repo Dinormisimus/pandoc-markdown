@@ -1,3 +1,10 @@
+---
+title: "Uvod u Pandoc"
+author: "Dino Grgić"
+date: "5 studenog 2025."
+lang: "hr"
+---
+
 # Pandoc
 
 ## Što je Pandoc?
